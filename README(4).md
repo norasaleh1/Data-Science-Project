@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="SL.png" alt="Saudi Labor Law Assistant Project Header" width="100%">
+  <img src="SL (1).png" alt="Saudi Labor Law Assistant Project Header" width="100%">
 </p>
 
 # Saudi Labor Law Assistant
