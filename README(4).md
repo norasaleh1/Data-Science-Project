@@ -471,17 +471,3 @@ The structured dataset and evaluation workflow can support future applications s
 
 ---
 
-## Academic Context
-
-**King Saud University**  
-College of Computer and Information Sciences  
-Department of Information Technology  
-**IT 362 — Principles of Data Science**
-
----
-
-## Disclaimer
-
-This project was developed for **academic and research purposes**.
-
-The generated answers and experimental models are not a substitute for professional legal advice. Legal information should always be verified against the latest official Saudi regulations and authoritative government sources.
