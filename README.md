@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/saudi-labor-law-header.png" alt="Saudi Labor Law Q&A Project Header" width="100%">
+  <img src="SL.png" alt="Saudi Labor Law Q&A Project Header" width="100%">
 </p>
 
 # Saudi Labor Law Q&A
