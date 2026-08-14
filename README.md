@@ -463,11 +463,10 @@ The structured dataset and evaluation workflow can support future applications s
 
 ## Team Members
 
-- **Nora Saleh Alkhudair — نوره صالح الخضير**
-- **مارية صالح النفيسة**
-- **رغد نوري الرشيد**
-- **لين خالد الدبيس**
-- **ملاك طلال باسلوم**
+- **Nora Alkhudair**
+- **Maria Alnafisa**
+- **Raghad Alrasheed**
+- **Leen Aldubais**
+- **Malak Basloom**
 
 ---
-
